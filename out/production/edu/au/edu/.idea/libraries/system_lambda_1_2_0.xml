@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="system-lambda-1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../deps/system-lambda-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/apiguardian-api-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/byte-buddy-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/byte-buddy-agent-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/mockito-core-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/mockito-junit-jupiter-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/objenesis-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../deps/opentest4j-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
